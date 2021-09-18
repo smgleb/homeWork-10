@@ -1,0 +1,27 @@
+.row.active {
+	background-color: #000;
+	color: #fff;
+}
+.card {
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+#switcher {
+	padding-top: 15px;
+	width: 100%;
+	text-align: right;
+}
+
+#switcher img {
+	width: 30px;
+	margin-right: 40px;
+}
+
+#change-switcher {
+	cursor: pointer;
+}
+#current-cat {
+	width: 100%;
+	height: 250px;
+}
